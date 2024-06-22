@@ -16,7 +16,7 @@
         <label for="email">Email:</label>
         <input type="email" id="sjhjdaj" name="Email" required><br><br>
         Gender:
-<input type="radio" name="gender" value="female">Female
+
 <input type="radio" name="gender" value="male">Male
 
         <input type="submit" value="Submit">
