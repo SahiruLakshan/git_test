@@ -14,11 +14,9 @@
         <label for="email">Email:</label>
         <input type="email" id="sjhjdaj" name="Email" required><br><br>
         <label for="email">Email:</label>
-        <input type="email" id="sjhjdaj" name="Email" required><br><br>
-        Male:
-
-
-
+        <input type="number" id="sjhjdaj" name="Email" required><br><br>
+        Gender:
+   
         <input type="submit" value="Submit">
     </form>
 </body>
