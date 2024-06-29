@@ -9,14 +9,15 @@
     <form action="welcome.php" method="post">
         <label for="name">Name:</label>
         <input type="text" id="hcbdjsh" name="Name" required><br><br>
-        
+        <label for="name">Password</label>
+        <input type="password" id="hcbdjsh" name="password" required><br><br>
         <label for="email">Email:</label>
         <input type="email" id="sjhjdaj" name="Email" required><br><br>
         <label for="email">Email:</label>
         <input type="email" id="sjhjdaj" name="Email" required><br><br>
-        Gender:
-<input type="radio" name="gender" value="female">Female
-<input type="radio" name="gender" value="male">Male
+        Genderr:
+
+
 
         <input type="submit" value="Submit">
     </form>
